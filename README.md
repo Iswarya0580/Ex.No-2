@@ -3,7 +3,7 @@
 
 ### Name : Iswarya P
 ### Register no : 212223230082
-### Date : 26-09-2024
+### Date : 05-09-2024
 
 ## AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
